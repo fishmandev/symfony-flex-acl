@@ -649,16 +649,16 @@
         },
         {
             "name": "sensio/framework-extra-bundle",
-            "version": "v5.0.0",
+            "version": "v5.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioFrameworkExtraBundle.git",
-                "reference": "112a03ddd1376de878f808fef7935495b29c890b"
+                "reference": "9e3fa14aa959f703961bc9e4ab00110d617bcfdd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/112a03ddd1376de878f808fef7935495b29c890b",
-                "reference": "112a03ddd1376de878f808fef7935495b29c890b",
+                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/9e3fa14aa959f703961bc9e4ab00110d617bcfdd",
+                "reference": "9e3fa14aa959f703961bc9e4ab00110d617bcfdd",
                 "shasum": ""
             },
             "require": {
@@ -714,7 +714,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2017-10-06T15:57:05+00:00"
+            "time": "2017-10-12T17:37:44+00:00"
         },
         {
             "name": "symfony/cache",
