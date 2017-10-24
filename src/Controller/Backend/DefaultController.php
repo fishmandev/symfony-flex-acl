@@ -16,4 +16,13 @@ class DefaultController extends Controller
     {
         return $this->render('backend/default/index.html.twig');
     }
+
+    /**
+     * @Route("/admin/", name="admin")
+     * @return \Symfony\Component\HttpFoundation\Response
+     */
+    public function adminAction()
+    {
+        return $this->render('backend/default/admin.html.twig');
+    }
 }
