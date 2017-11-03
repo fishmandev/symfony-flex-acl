@@ -51,4 +51,12 @@ class DefaultController extends Controller
     {
         // Does not need to be implemented
     }
+
+    /**
+     * @Route("/admin/check", name="check_permission")
+     */
+    public function checkPermissionAction()
+    {
+        // Does not need to be implemented
+    }
 }
