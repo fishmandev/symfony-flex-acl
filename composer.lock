@@ -3678,24 +3678,24 @@
         },
         {
             "name": "symfony/flex",
-            "version": "v1.0.53",
+            "version": "v1.0.67",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/flex.git",
-                "reference": "cc4b1bac464597ce220d4f8208c38c75195e80c2"
+                "reference": "ac1c6aaafc4a9fddba3626867d786d151d2cc2ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/flex/zipball/cc4b1bac464597ce220d4f8208c38c75195e80c2",
-                "reference": "cc4b1bac464597ce220d4f8208c38c75195e80c2",
+                "url": "https://api.github.com/repos/symfony/flex/zipball/ac1c6aaafc4a9fddba3626867d786d151d2cc2ac",
+                "reference": "ac1c6aaafc4a9fddba3626867d786d151d2cc2ac",
                 "shasum": ""
             },
             "require": {
-                "composer-plugin-api": "^1.1",
+                "composer-plugin-api": "^1.0",
                 "php": "^7.0"
             },
             "require-dev": {
-                "composer/composer": "^1.4",
+                "composer/composer": "^1.0.2",
                 "symfony/phpunit-bridge": "^3.2.8"
             },
             "type": "composer-plugin",
@@ -3720,7 +3720,7 @@
                     "email": "fabien.potencier@gmail.com"
                 }
             ],
-            "time": "2017-12-27T16:06:01+00:00"
+            "time": "2018-01-25T06:46:31+00:00"
         }
     ],
     "aliases": [],
